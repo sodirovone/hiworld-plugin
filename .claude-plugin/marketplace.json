@@ -1,0 +1,26 @@
+{
+  "name": "hiworld",
+  "description": "hiworld.club plaginlar katalogi.",
+  "owner": {
+    "name": "hiworld.club",
+    "url": "https://github.com/sodirovone"
+  },
+  "plugins": [
+    {
+      "name": "hiworld",
+      "source": "./",
+      "description": "G'oyadan hujjatlargacha: aniqla -> tergov -> prdla -> kengash zanjiri va kotib agent. Butun muloqot lotin o'zbek tilida.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": [
+        "uzbek",
+        "prd",
+        "planning",
+        "startup"
+      ],
+      "author": {
+        "name": "hiworld.club"
+      }
+    }
+  ]
+}

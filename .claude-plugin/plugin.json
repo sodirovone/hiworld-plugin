@@ -1,0 +1,22 @@
+{
+  "name": "hiworld",
+  "displayName": "HiWorld",
+  "version": "1.0.0",
+  "description": "G'oyadan hujjatlargacha: aniqla -> tergov -> prdla -> kengash zanjiri va kotib agent. hiworld.club uchun. Butun muloqot lotin o'zbek tilida.",
+  "author": {
+    "name": "hiworld.club",
+    "url": "https://github.com/sodirovone"
+  },
+  "homepage": "https://hiworld.club",
+  "repository": "https://github.com/sodirovone/hiworld-plugin",
+  "license": "MIT",
+  "keywords": [
+    "uzbek",
+    "ozbek",
+    "prd",
+    "product",
+    "startup",
+    "hiworld",
+    "planning"
+  ]
+}
